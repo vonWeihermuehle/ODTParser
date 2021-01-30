@@ -19,6 +19,3 @@ public static void main(String[] args) {
     ODTParser parser = new ODTParser(path_to_odt);
     System.out.println(parser.transform());
 }
-    
-    ```
-    
